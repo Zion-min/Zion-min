@@ -9,6 +9,7 @@ In the [Resume](Resume.html), There's almost everything about me.
 - DART Project - ESG 
 - 투자자산운용사
 - DeepLearning.pdf
+- KNU App Development Project
 
 # I WANT TO... 🔭
 - 🤖 Study AI + Quant
