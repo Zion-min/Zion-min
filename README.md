@@ -15,6 +15,6 @@ In the Resume, There's almost everything about me.
 - 🤩 Make Something Cool
 
 # Visit if you want to know my real life
-- to [blog](https://blog.naver.com/sioniasak)
-- to [instagram](https://instagram.com/onsi__self)
+- to [Blog](https://blog.naver.com/sioniasak)
+- to [Instagram](https://instagram.com/onsi__self)
 
