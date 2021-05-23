@@ -1,5 +1,5 @@
 # Hi 👋
-Welcome to Sion Min's github. 
+Welcome to Sion Min's github.  
 In the Resume, There's almost everything about me.
 ### Passion, Passion, Passion!
 <img height="250px" src="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/msS/image/N9_HlAq3t9sZjrMt9tzGMhFU9ww.jfif">
