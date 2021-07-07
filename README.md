@@ -4,7 +4,7 @@ In the [Resume](Resume.html), There's almost everything about me.
 ### Passion, Passion, Passion!
 
 # I WANT TO... 🔭
-- 🤖 Study AI + Quant
+- 🤖 be Data Scientist
 - 🤩 Make Something Cool
 
 # I'M CURRENTLY... 🌱
