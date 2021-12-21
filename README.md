@@ -1,6 +1,6 @@
 # Hi 👋
 Welcome to Sion Min's github.  
-In the [Resume](Resume.html), There's almost everything about me.
+In the [Resume](Resume.html), There's almost everything to tell you about me
 ### Passion, Passion, Passion!
 
 # I WANT TO... 🔭
